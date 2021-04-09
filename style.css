@@ -1,0 +1,17 @@
+.background-image
+{
+ 
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5), 
+      rgba(0, 0, 0, 0.5)
+    ),url(surf1.jpg);
+    /* Used if the image is unavailable */
+    background-color: #cccccc;
+    background-size:100%;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+     
+  }
+      
